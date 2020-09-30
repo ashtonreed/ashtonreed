@@ -25,27 +25,26 @@ Resume: [Ashton Reed](https://github.com/ashtonreed/ashtonreed/blob/master/Ashto
 
 😄 Pronouns: She/Her
 
-I enjoy flow arts, hiking, reading, [stress] baking, learning new things, interacting with the world around me, and keeping the Oxford comma alive. Professionally, I'm currently learning more about statistics and model optimization as they relate to data science. In my free time, I recently learned how to firebend, thanks to the internet. 🔥
-<br>
+I enjoy flow arts, hiking, reading, [stress] baking, learning new things, interacting with the world around me, and keeping the Oxford comma alive. Professionally, I'm currently learning more about statistics and model optimization as they relate to data science. In my free time, I recently learned how to firebend, thanks to the internet. 🔥 <br><br>
 <img src=https://github.com/ashtonreed/ashtonreed/blob/master/Screen%20Shot%202020-09-29%20at%207.07.39%20PM.png height="40%" width="40%"/>
 
 
 
-⚡ Fun facts: <br>
+☀️ Fun facts: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-I grew up in Mississippi.
+⚡ I grew up in Mississippi.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-I speak three languages (but only two well).
+⚡ I speak three languages (but only two well).
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-I have couchsurfed in 4 different cities (3 in the U.S. and 1 in Canada).
+⚡ I have couchsurfed in 4 different cities (3 in the U.S. and 1 in Canada).
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-I had a job shining shoes for 3 weeks not long after I first moved to Denver.
+⚡ I had a job shining shoes for 3 weeks not long after I first moved to Denver.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-I have a background in tech support for a day trading platform and real estate software. 
+⚡ I have a background in tech support for a day trading platform and real estate software. 
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-I have worked on and off in the food service industry for over a decade (because free food).
+⚡ I have worked on and off in the food service industry for over a decade (because free food).
