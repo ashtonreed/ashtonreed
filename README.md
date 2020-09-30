@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 
 🔭 *Currently working on*: Churn Analysis (Capstone 2 of Springboard's Data Science Career Track)
 
-📝 Resume: [Ashton Reed](https://github.com/ashtonreed/ashtonreed/blob/master/Ashton_Reed_Resume_Sep2020.pdf)
+📝 *Resume*: [Ashton Reed](https://github.com/ashtonreed/ashtonreed/blob/master/Ashton_Reed_Resume_Sep2020.pdf)
 
-🌟 My ideal role would look like: Collaborating with a team (or teams), working with numbers or code the majority of the time, and learning as many new things as possible so I can excel at solving problems for the company/customer
+🌟 *My ideal role would look like*: Collaborating with a team (or teams), working with numbers or code the majority of the time, and learning as many new things as possible so I can excel at solving problems for the company/customer
 
-📫 How you can reach me: [LinkedIn](https://www.linkedin.com/in/ashton-reed/) or Email: ashton.e.reed@gmail.com
+📫 *How you can reach me*: [LinkedIn](https://www.linkedin.com/in/ashton-reed/) or email (ashton.e.reed@gmail.com)
 
-😄 Pronouns: She/Her
+😄 *Pronouns*: She/Her
 
-I enjoy flow arts, hiking, reading, pretty graphs, [stress] baking, learning new things, interacting with the world around me, and keeping the Oxford comma alive. Professionally, I'm currently learning more about statistics and model optimization as they relate to data science. In my free time, I recently learned how to firebend, thanks to the Internet. 🔥 <br><br>
+🎵 *Hobbies*: I enjoy playing music, flow arts, hiking, reading, pretty graphs, [stress] baking, learning new things, interacting with the world around me, and keeping the Oxford comma alive. Professionally, I'm currently learning more about statistics and model optimization as they relate to data science. In my free time, I recently learned how to firebend, thanks to the Internet. 🔥 <br><br>
 <img src=https://github.com/ashtonreed/ashtonreed/blob/master/Screen%20Shot%202020-09-29%20at%207.07.39%20PM.png height="30%" width="30%"/>
 
 <br>
