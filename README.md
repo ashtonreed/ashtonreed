@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 📝 Resume: [Ashton Reed](https://github.com/ashtonreed/ashtonreed/blob/master/Ashton_Reed_Resume_Sep2020.pdf)
 
-📫 How you can reach me: [LinkedIn](https://www.linkedin.com/in/ashton-reed/) or [Email](ashtonereed@gmail.com)
+📫 How you can reach me: [LinkedIn](https://www.linkedin.com/in/ashton-reed/) or Email: ashtonereed@gmail.com
 
 😄 Pronouns: She/Her
 
