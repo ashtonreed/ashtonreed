@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🔭 *Currently working on*: Churn Analysis (Capstone 2 of Springboard's Data Science Career Track)
 
-Resume: [Ashton Reed](https://github.com/ashtonreed/ashtonreed/blob/master/Ashton_Reed_Resume_Sep2020.pdf)
+📝 Resume: [Ashton Reed](https://github.com/ashtonreed/ashtonreed/blob/master/Ashton_Reed_Resume_Sep2020.pdf)
 
 📫 How you can reach me: [LinkedIn](https://www.linkedin.com/in/ashton-reed/) or [Email](ashtonereed@gmail.com)
 
