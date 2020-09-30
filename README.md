@@ -35,7 +35,7 @@ I enjoy flow arts, hiking, reading, [stress] baking, learning new things, intera
 ⚡ I grew up in Mississippi.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;
-⚡ I speak three languages (but only two well).
+⚡ I speak 3 languages (but only two well).
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;
 ⚡ I have couchsurfed in 4 different cities (3 in the U.S. and 1 in Canada).
