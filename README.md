@@ -30,6 +30,21 @@ Here are some ideas to get you started:
 I enjoy flow arts, hiking, reading, pretty graphs, [stress] baking, learning new things, interacting with the world around me, and keeping the Oxford comma alive. Professionally, I'm currently learning more about statistics and model optimization as they relate to data science. In my free time, I recently learned how to firebend, thanks to the Internet. 🔥 <br><br>
 <img src=https://github.com/ashtonreed/ashtonreed/blob/master/Screen%20Shot%202020-09-29%20at%207.07.39%20PM.png height="30%" width="30%"/>
 
+<br>
+Here are some samples of my [non-technical] work from college: <br>
+<p align="middle">
+  <img src=https://github.com/ashtonreed/ashtonreed/blob/master/strugglebus1.png height="30%" width="30%"/> 
+  <img src=https://github.com/ashtonreed/ashtonreed/blob/master/strugglebus2.png height="30%" width="30%"/> 
+  <img src=https://github.com/ashtonreed/ashtonreed/blob/master/strugglebus3.png height="30%" width="30%"/> <br>
+"The Struggle Bus: Now Serving Cookies"
+  <br>
+  <br>
+  <img src=https://github.com/ashtonreed/ashtonreed/blob/master/poop_emoji_meringues_feat_Saturn_V.png height="30%" width="30%"/>
+  <br>
+  "💩 Meringues feat. Saturn V"
+</p>
+<br>
+
 
 
 ☀️ Fun facts: <br>
