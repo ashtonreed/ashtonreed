@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 📝 Resume: [Ashton Reed](https://github.com/ashtonreed/ashtonreed/blob/master/Ashton_Reed_Resume_Sep2020.pdf)
 
+🌟 My ideal role would look like: Collaborating with a team (or teams), working with numbers or code the majority of the time, and learning as many new things as possible so I can excel at solving problems for the company/customer
+
 📫 How you can reach me: [LinkedIn](https://www.linkedin.com/in/ashton-reed/) or Email: ashton.e.reed@gmail.com
 
 😄 Pronouns: She/Her
