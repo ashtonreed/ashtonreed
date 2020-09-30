@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 😄 Pronouns: She/Her
 
-I enjoy flow arts, hiking, reading, [stress] baking, learning new things, interacting with the world around me, and keeping the Oxford comma alive. Professionally, I'm currently learning more about statistics and model optimization as they relate to data science. In my free time, I recently learned how to firebend, thanks to the internet. 🔥 <br><br>
+I enjoy flow arts, hiking, reading, pretty graphs, [stress] baking, learning new things, interacting with the world around me, and keeping the Oxford comma alive. Professionally, I'm currently learning more about statistics and model optimization as they relate to data science. In my free time, I recently learned how to firebend, thanks to the Internet. 🔥 <br><br>
 <img src=https://github.com/ashtonreed/ashtonreed/blob/master/Screen%20Shot%202020-09-29%20at%207.07.39%20PM.png height="30%" width="30%"/>
 
 
