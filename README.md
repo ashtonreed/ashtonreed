@@ -44,8 +44,13 @@ Here are some samples of my [non-technical] work from college: <br>
   "💩 Meringues feat. Saturn V"
 </p>
 <br>
+And a more recent, semi-professional sample: <br>
+<p align="middle">
+  <img src=https://github.com/ashtonreed/ashtonreed/blob/master/flourless_chocolate_torte.png height="30%" width="30%"/> <br>
+  "Flourless Chocolate Torte with Berries"
+</p>
 
-
+<br>
 
 ☀️ Fun facts: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;
