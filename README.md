@@ -1,4 +1,4 @@
-### Hi, I'm Ash
+# Hi, I'm Ash
 
 <!--
 **ashtonreed/ashtonreed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Resume: [Ashton Reed](https://github.com/ashtonreed/ashtonreed/blob/master/Ashton_Reed_Resume_Sep2020.pdf)
+#### While you're here, check out my [Springboard repo](https://github.com/ashtonreed/Springboard), which is my most recent work that I'm still adding to.
 
 🔭 *Currently working on*: Churn Analysis (Capstone 2 of Springboard's Data Science Career Track)
+
+Resume: [Ashton Reed](https://github.com/ashtonreed/ashtonreed/blob/master/Ashton_Reed_Resume_Sep2020.pdf)
 
 📫 How you can reach me: [LinkedIn](https://www.linkedin.com/in/ashton-reed/) or [Email](ashtonereed@gmail.com)
 
@@ -25,7 +27,7 @@ Resume: [Ashton Reed](https://github.com/ashtonreed/ashtonreed/blob/master/Ashto
 
 I enjoy flow arts, hiking, reading, [stress] baking, learning new things, interacting with the world around me, and keeping the Oxford comma alive. Professionally, I'm currently learning more about statistics and model optimization as they relate to data science. In my free time, I recently learned how to firebend, thanks to the internet. 🔥
 <br>
-<img src=https://github.com/ashtonreed/ashtonreed/blob/master/Screen%20Shot%202020-09-29%20at%207.07.39%20PM.png height="50%" width="50%"/>
+<img src=https://github.com/ashtonreed/ashtonreed/blob/master/Screen%20Shot%202020-09-29%20at%207.07.39%20PM.png height="40%" width="40%"/>
 
 
 
