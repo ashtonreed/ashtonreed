@@ -25,7 +25,7 @@ Resume: [Ashton Reed](https://github.com/ashtonreed/ashtonreed/blob/master/Ashto
 
 I enjoy flow arts, hiking, reading, [stress] baking, learning new things, interacting with the world around me, and keeping the Oxford comma alive. Professionally, I'm currently learning more about statistics and model optimization as they relate to data science. In my free time, I recently learned how to firebend, thanks to the internet. 🔥
 <br>
-img
+<img src=https://github.com/ashtonreed/ashtonreed/blob/master/Screen%20Shot%202020-09-29%20at%207.07.39%20PM.png height="50%" width="50%"/>
 
 
 
