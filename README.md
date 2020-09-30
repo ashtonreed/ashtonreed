@@ -70,3 +70,6 @@ And a more recent, semi-professional sample: <br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;
 ⚡ I have worked on and off in the food service industry for over a decade (because free food).
+<br>
+<br>
+*I believe in living with open arms and tongue in cheek.*
