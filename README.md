@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### *Demystifying data and empowering others through empathy and understanding*
 
 #### While you're here, check out my [Springboard repo](https://github.com/ashtonreed/Springboard), which is my most recent work that I'm still adding to.
 
