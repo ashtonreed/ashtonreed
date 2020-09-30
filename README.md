@@ -31,20 +31,20 @@ I enjoy flow arts, hiking, reading, [stress] baking, learning new things, intera
 
 
 ☀️ Fun facts: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 ⚡ I grew up in Mississippi.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 ⚡ I speak three languages (but only two well).
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 ⚡ I have couchsurfed in 4 different cities (3 in the U.S. and 1 in Canada).
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 ⚡ I had a job shining shoes for 3 weeks not long after I first moved to Denver.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 ⚡ I have a background in tech support for a day trading platform and real estate software. 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 ⚡ I have worked on and off in the food service industry for over a decade (because free food).
