@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 #### While you're here, check out my [Springboard repo](https://github.com/ashtonreed/Springboard), which is my most recent work that I'm still adding to.
 
-🔭 *Currently working on*: Churn Analysis (Capstone 2 of Springboard's Data Science Career Track)
+🔭 *Most recent project*: Churn Analysis (Capstone 2 of Springboard's Data Science Career Track)
 
 📝 *Resume*: [Ashton Reed](https://github.com/ashtonreed/ashtonreed/blob/master/Ashton_Reed_Resume_Sep2020.pdf)
 
