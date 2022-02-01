@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 #### *Demystifying data and empowering others through empathy and understanding*
 
 #### While you're here, check out my most recent foray into data engineering: [Udacity Data Engineering Nanodegree](https://github.com/ashtonreed/Udacity_Data_Engineering_Nanodegree)
-#### Or check out my main focus from 2020, my [Springboard repo](https://github.com/ashtonreed/Springboard).
+#### Or check out my main focus from 2020, my [Springboard Data Science repo](https://github.com/ashtonreed/Springboard).
 
 🔭 *Most recent project*: Churn Analysis (Capstone 2 of Springboard's Data Science Career Track)
 
